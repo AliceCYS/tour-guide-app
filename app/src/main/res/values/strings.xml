@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="email">Email Address</string>
+    <string name="create">Create Account</string>
+    <string name="cancel">Cancel</string>
+</resources>

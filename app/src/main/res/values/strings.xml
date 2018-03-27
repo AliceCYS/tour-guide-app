@@ -6,4 +6,5 @@
     <string name="email">Email Address</string>
     <string name="create">Create Account</string>
     <string name="cancel">Cancel</string>
+    <string name="hello">Hello</string>
 </resources>

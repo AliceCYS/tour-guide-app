@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/tour-guide-app.iml" filepath="$PROJECT_DIR$/tour-guide-app.iml" />
+      <module fileurl="file://C:\Users\LQuan\Desktop\tourGuideApp\app\app.iml" filepath="C:\Users\LQuan\Desktop\tourGuideApp\app\app.iml" />
+      <module fileurl="file://C:\Users\LQuan\Desktop\tourGuideApp\tour-guide-app.iml" filepath="C:\Users\LQuan\Desktop\tourGuideApp\tour-guide-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tourGuideApp.iml" filepath="$PROJECT_DIR$/tourGuideApp.iml" />
     </modules>
   </component>
 </project>

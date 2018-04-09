@@ -85,22 +85,16 @@
             style="?android:attr/buttonStyleSmall"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/create" />
+            android:text="@string/create"
+            android:onClick="onReg"/>
 
         <Button
             android:id="@+id/cancelBtn"
             style="?android:attr/buttonStyleSmall"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/cancel" />
-
-        <Button
-            android:id="@+id/hellobtn"
-            style="?android:attr/buttonStyleSmall"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/hello" />
-
+            android:text="@string/cancel"
+            android:onClick="onCancel"/>
     </LinearLayout>
 
 </LinearLayout>
